@@ -1,0 +1,12 @@
+
+.country-detail {
+    background: #f0f0f0;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.country-detail img {
+    height: 200px;
+    border-radius: 5px;
+}
